@@ -1,0 +1,16 @@
+.home-container {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+    height: 900px;
+}
+.home-img {
+    height: 500px;
+    width: 250px;
+}
+.home-1 {
+    background-color: lightgrey;
+    width: 700px;
+    height: 500px;
+    padding: 20px;
+}
