@@ -6,19 +6,20 @@ const Navbar = () => {
             <nav>
                 <ul>
                     <li>
-                        <button>
+                        <button><a href="#">
                         Home
+                        </a>
                         </button>
                     </li>
                     <li>
-                        <button>
+                        <button><a href="#project">
                         Project
-                        </button>
+                        </a></button>
                     </li>
                     <li>
-                        <button>
+                        <button><a href="#contact">
                         Contact
-                        </button>
+                        </a></button>
                     </li>
                 </ul>
             </nav>

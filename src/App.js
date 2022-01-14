@@ -7,7 +7,7 @@ function App() {
     // <div className="App">
     //   <a href="https://youtu.be/yYed29i2YRA">Link to project</a>
     // </div>
-    <div>
+    <div className="wrapper">
       <Navbar />
       <Home />
     </div>

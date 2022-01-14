@@ -2,15 +2,33 @@
     display: flex;
     justify-content: space-evenly;
     margin-top: 100px;
-    height: 900px;
+    height: 600px;
+    font-size: 16px;
 }
 .home-img {
     height: 500px;
     width: 250px;
 }
 .home-1 {
-    background-color: lightgrey;
     width: 700px;
     height: 500px;
     padding: 20px;
+}
+.home-desc p {
+    padding: 10px;
+}
+.heading {
+    padding: 10px;
+}
+
+/*project*/
+
+#project {
+    padding: 50px;
+}    
+
+/*contact*/
+
+#contact {
+    padding: 50px;
 }
