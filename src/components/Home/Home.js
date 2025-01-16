@@ -1,6 +1,21 @@
 import logo from './logo.png'
 import './styles.css'
 
+import axios from 'axios';
+
+// Example function to fetch data from your Rails backend
+const fetchData = async () => {
+  try {
+    const response = await axios.get('http://localhost:3001/your-api-endpoint');
+    console.log(response.data);
+  } catch (error) {
+    console.error('Error fetching data:', error);
+  }
+};
+
+// Call fetchData in your React component when you want to get data
+
+
 const Home = () => {
     return (
         <div className="container">
