@@ -1,6 +1,6 @@
 class ApplicationController < ActionController::Base
     def hello
-      render plain: "Hello, World!"
+      render json: { message: 'Hello from Rails' }
     end
   end
   

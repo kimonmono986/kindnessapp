@@ -32,3 +32,14 @@
 #contact {
     padding: 50px;
 }
+
+/*goals list*/
+#goals-list {
+    margin-left: 60px;
+}
+.goals-li {
+    padding: 8px;
+}
+.goals-heading {
+    padding-bottom: 20px;
+}
