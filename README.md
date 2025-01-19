@@ -4,8 +4,11 @@ Kindness provides daily goals in order to spread awareness about mental health a
 
 Desktop version:
 
+<img src="./public/desktopver.png" alt="picture of desktop version of our app" height="600px" width="800px" />
+
 Mobile version:
 
+<img src="./public/mobilever.png" alt="picture of mobile version of our app" height="400px" width="250px" />
 
 ## Technologies
 
