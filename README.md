@@ -8,7 +8,7 @@ Desktop version:
 
 Mobile version:
 
-<img src="./public/mobilever.png" alt="picture of mobile version of our app" height="500px" width="200px" />
+<img src="./public/mobilever.png" alt="picture of mobile version of our app" height="450px" width="240px" />
 
 ## Technologies
 
