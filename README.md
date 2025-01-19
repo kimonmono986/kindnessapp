@@ -1,14 +1,19 @@
-# Kindness by Karyme Sanchez, Juan Cardona, and Kimon Monokandilos.
+# Kindness by Karyme Sanchez, Juan Cardona, and Kimon Monokandilos. 🪴 
 
-## Technologies Used
+Kindness provides daily goals in order to spread awareness about mental health and well-being. The project was developed during Microsoft's San Francisco Summer Challenge project.
 
-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
-- ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
-- ![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat&logo=rails&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+Desktop version:
 
-This is a full-stack application built with React on the front-end and Ruby on Rails on the back-end.
+Mobile version:
+
+
+## Technologies
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat&logo=rails&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ## Instructions
 
